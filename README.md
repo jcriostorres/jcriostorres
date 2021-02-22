@@ -1,4 +1,3 @@
-**jcriostorres/ `README.md`** 
 
 ## Hi there, I am Johana C. Ríos 👋
 
