@@ -1,16 +1,26 @@
-### Hi there 👋
+**jcriostorres/ `README.md`** 
 
-<!--
-**jcriostorres/jcriostorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I am Johana C. Ríos 👋
 
-Here are some ideas to get you started:
+System Engineer student at the Universidad de Antioquia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+- 🌱 I’m currently learning Java EE, JavaScript, Typescript 
+
+- 🔭 I’m currently working on Apps Web
+
+
+## 📫  How to reach me: 
+
+- LinkedIn - Johana Ríos ✨ ✨
+
+
+
+<!––
+dfasdf
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+––>
