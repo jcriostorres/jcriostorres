@@ -5,7 +5,7 @@
 System Engineer student at the Universidad de Antioquia.
 
 
-- 🌱 I’m currently learning Java EE, JavaScript, Typescript 
+- 🌱 I’m currently learning Java EE, JavaScript and Typescript 
 
 - 🔭 I’m currently working on Apps Web
 
