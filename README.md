@@ -1,6 +1,6 @@
 **jcriostorres/ `README.md`** 
 
-### Hi there, I am Johana C. Ríos 👋
+## Hi there, I am Johana C. Ríos 👋
 
 System Engineer student at the Universidad de Antioquia.
 
@@ -16,11 +16,3 @@ System Engineer student at the Universidad de Antioquia.
 
 
 
-<!––
-dfasdf
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-––>
