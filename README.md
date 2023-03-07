@@ -4,9 +4,9 @@
 System Engineer student at the Universidad de Antioquia.
 
 
-- 🌱 I’m currently learning Java EE, JavaScript and Typescript 
+- 🌱 I’m currently learning Python, Tableau and Java EE.   
 
-- 🔭 I’m currently working on Apps Web
+- 🔭 I’m currently working on Cleaning data and Data analysis.
 
 
 ## 📫  How to reach me: 
