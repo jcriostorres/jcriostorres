@@ -12,5 +12,5 @@ System Engineer student at the Universidad de Antioquia.
 ## 📫  How to reach me: 
 
 - LinkedIn:
-<a href="www.linkedin.com/in/j-catalina-rios-data-science">Johana Ríos</a> ✨ ✨
+<a href="https://www.linkedin.com/in/j-catalina-rios-data-science/">J Catalina Ríos</a> ✨ ✨
 
