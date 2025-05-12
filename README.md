@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👩🏻, I'm J. Catalina Rios</h1>
+<h1 align="center">Hello 👩🏻, I'm Catalina Rios T</h1>
 <h3 align="center">System Engineer student at the Universidad de Antioquia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jcriostorres&label=Profile%20views&color=0e75b6&style=flat" alt="jcriostorres" /> </p>
